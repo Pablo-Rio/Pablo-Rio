@@ -1,5 +1,5 @@
-Bienvenue sur mon Github !
+Welcome on my Github ! 👋
 
-Je suis Paul Rivière, étudiant à l'IUT informatique de Limoges (87). 
-Vous retrouverez en dessous quelques uns de mes codes.
-
+I'm Paul Rivière, student at the University institute of technology (IUT) of Multimedia
+and the Internet (MMI) in Limoges (87). 
+You will find below some of my projects.
